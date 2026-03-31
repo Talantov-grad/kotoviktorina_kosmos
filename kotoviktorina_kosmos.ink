@@ -1,4 +1,8 @@
 VAR score = 0 
+=== reset === 
+~ score = 0
+-> start
+
 
 -> start
 === start ===
